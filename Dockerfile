@@ -1,6 +1,6 @@
 
 # Use whatever version you are running locally (see node -v)
-FROM node:12
+FROM node:20
 
 WORKDIR /app
 
