@@ -21,12 +21,12 @@ export default function App() {
 			],
 		},
 		{
-			questionText: 'The iPhone was created by which company?',
+			questionText: 'The iPhone was created by which country',
 			answerOptions: [
-				{ answerText: 'Apple', isCorrect: true },
-				{ answerText: 'Intel', isCorrect: false },
-				{ answerText: 'Amazon', isCorrect: false },
-				{ answerText: 'Microsoft', isCorrect: false },
+				{ answerText: 'USA', isCorrect: true },
+				{ answerText: 'India', isCorrect: false },
+				{ answerText: 'Janpan', isCorrect: false },
+				{ answerText: 'China', isCorrect: false },
 			],
 		},
 		{
